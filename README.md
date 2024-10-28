@@ -1,6 +1,4 @@
-# sun-travel-backend
-
-
+# Hotel Management System
 
 ## Getting started
 
