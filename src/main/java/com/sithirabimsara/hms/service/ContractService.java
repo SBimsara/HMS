@@ -1,6 +1,5 @@
 package com.sithirabimsara.hms.service;
 
-import com.codegen.hms.dto.*;
 import com.sithirabimsara.hms.dto.*;
 import com.sithirabimsara.hms.entity.Contract;
 import com.sithirabimsara.hms.entity.Hotel;
